@@ -1,0 +1,38 @@
+{
+  "name": "vuejs2-basics-in-just-1-hour",
+  "version": "0.0.0",
+  "description": "Vue.js 2 Basics in just 1 hour FREE",
+  "main": "app/index.html",
+  "private": true,
+  "keywords": [
+    "tutorial",
+    "vuejs",
+    "udemy",
+    "parcel"
+  ],
+  "author": "Quintin Henn <quintin.henn@gmail.com> (http://skerwe.web.za)",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn copy:dev-assets && parcel serve app/index.html -d build ",
+    "build": "yarn clean:dist && yarn copy:dist-assets && parcel build app/index.html -d dist",
+    "copy:dev-assets": "cpx app/images/* build/images",
+    "copy:dist-assets": "cpx app/images/* dist/images",
+    "clean:dev": "rimraf build",
+    "clean:dist": "rimraf dist"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "cpx": "^1.5.0",
+    "parcel-bundler": "^1.12.4",
+    "rimraf": "^3.0.0",
+    "sass": "^1.23.7"
+  },
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
+  }
+}
