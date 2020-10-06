@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300.00001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Linkedin-logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient871">
+      <stop
+         style="stop-color:#d7f4ee;stop-opacity:0.73087156"
+         offset="0"
+         id="stop867" />
+      <stop
+         style="stop-color:#d7f4ee;stop-opacity:0;"
+         offset="1"
+         id="stop869" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient871"
+       id="linearGradient873"
+       x1="153.60948"
+       y1="172.89093"
+       x2="79.855652"
+       y2="-45.593784"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.90967749,0,0.91134005)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="149.98302"
+     inkscape:cy="161.51685"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1457"
+     inkscape:window-height="993"
+     inkscape:window-x="408"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:3"
+       id="rect833"
+       width="280"
+       height="280"
+       x="9.0873652"
+       y="10.08988"
+       ry="25" />
+    <path
+       id="path849"
+       style="fill:url(#linearGradient873);fill-opacity:1;stroke:none;stroke-width:3.40441"
+       d="m 34.087891,10.089844 c -13.85,0 -25.0000004,10.142904 -25.0000004,22.741937 V 135.54894 A 96.171147,245.64034 83.424164 0 0 142.02734,134.73165 96.171147,245.64034 83.424164 0 0 289.08789,96.63713 V 32.831781 c 0,-12.599033 -11.15,-22.741937 -25,-22.741937 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:310.599px;line-height:1.25;font-family:sans-serif;fill:#d7f4ee;fill-opacity:1;stroke:none;stroke-width:7.76498"
+       x="27.045603"
+       y="273.29645"
+       id="text847"
+       transform="scale(1.0387899,0.96265857)"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="27.045603"
+         y="273.29645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';fill:#d7f4ee;stroke-width:7.76498">in</tspan></text>
+  </g>
+</svg>
