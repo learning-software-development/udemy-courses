@@ -11,7 +11,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 2. :o: [Learn Inkscape : Design Logos and Game Arts](learn-inkscape-design-logos-and-game-art/)
 3. :heavy_check_mark: Visual Studio Code (Fully Master Visual Studio Code in just 2 hours)
 4. :o: [Learn Atlassian JIRA - For Agile Software Development Teams](https://www.udemy.com/course/learn-jira-in-4-hours/) :link:
-5. :o: [Digital Marketing Secrets for Beginners - A Complete Course](https://www.udemy.com/course/digital-marketing-secrets-for-beginners/) :link:
+5. :heavy_check_mark: [Digital Marketing Secrets for Beginners - A Complete Course](https://www.udemy.com/course/digital-marketing-secrets-for-beginners/) :link:
 
 ## :beginner: Game Development Courses
 
