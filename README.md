@@ -23,7 +23,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 
 ## :beginner: Software Development
 
-1. :construction: [The Complete Python Course: Beginner to Advance](the-complete-python-course-beginner-to-advance/)
+1. :heavy_check_mark: [The Complete Python Course: Beginner to Advance](the-complete-python-course-beginner-to-advance/)
 
 ## :beginner: Web Application Courses
 
