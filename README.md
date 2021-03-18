@@ -17,7 +17,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 
 1. :heavy_check_mark: [How to become a Game Artist, Designer, or Developer!](https://www.udemy.com/course/gettingstartedingames/) :link:
 2. :o: [How To Get A Job In The Video Game Industry](https://www.udemy.com/course/gameindustryjobs/) :link:
-3. :o: [Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub](https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/) :link:
+3. :heavy_check_mark: [Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub](https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/) :link:
 4. :heavy_check_mark: [The Unity Workshop](https://github.com/learning-game-development/learning-unity-game-development/tree/master/The-Unity-Workshop) :rocket:
 5. :o: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Intro-to-Creating-Particle-Effects) :rocket:
 
