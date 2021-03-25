@@ -1,0 +1,21 @@
+{
+  "name": "jquery-ajax",
+  "version": "1.0.0",
+  "description": "Foundations of Front-End Web Development",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "api": "^3.0.0",
+    "jquery": "^3.6.0"
+  }
+}
