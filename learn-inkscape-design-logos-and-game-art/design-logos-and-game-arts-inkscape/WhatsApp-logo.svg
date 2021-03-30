@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200.00001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="WhatsApp-logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="89.662118"
+     inkscape:cy="155.65335"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="1457"
+     inkscape:window-height="993"
+     inkscape:window-x="231"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3375"
+       transform="translate(-0.8412795,-8.368249)">
+      <path
+         id="path837"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.22862;stroke-miterlimit:4;stroke-dasharray:149.486, 6.22862;stroke-dashoffset:0"
+         inkscape:transform-center-x="-3.6380593"
+         inkscape:transform-center-y="0.13105542"
+         d="m 86.00135,156.3237 -43.340509,24.48743 10.756093,-48.18851 z m 81.11048,-54.1278 A 66.270543,66.270545 37.332864 0 1 100.84128,168.46646 66.270543,66.270545 37.332864 0 1 34.570729,102.1959 66.270543,66.270545 37.332864 0 1 100.84128,35.925368 66.270543,66.270545 37.332864 0 1 167.11183,102.1959 Z" />
+      <path
+         id="path841"
+         style="fill:#37c871;fill-opacity:1;stroke:none;stroke-width:6.79008;stroke-miterlimit:4;stroke-dasharray:162.962, 6.79008;stroke-dashoffset:0"
+         d="m 156.11998,102.1959 a 55.278699,54.962909 0 0 1 -55.2787,54.96292 55.278699,54.962909 0 0 1 -55.278703,-54.96292 55.278699,54.962909 0 0 1 55.278703,-54.9629 55.278699,54.962909 0 0 1 55.2787,54.9629 z m -64.685667,40.93756 -36.302501,20.51094 9.009424,-40.36323 z" />
+      <path
+         id="path894"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.9972;stroke-miterlimit:4;stroke-dasharray:191.934, 7.9972;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 73.860192,67.306015 c -11.807199,9.195213 -8.377259,31.647896 7.660981,50.149515 16.038244,18.50163 38.611467,26.046 50.418707,16.85085 1.50835,-1.17476 2.79561,-2.59637 3.84028,-4.24109 1.01551,-1.59881 -3.38388,-4.61592 -5.80954,-6.46003 -2.20051,-1.67293 -5.03487,-3.17949 -7.79882,-2.88876 -1.96815,0.20702 -3.04078,2.36811 -4.56118,3.55214 -2.55005,1.98591 -5.18611,2.7495 -8.7662,1.10017 -3.58009,-1.64934 -8.04019,-4.86327 -11.178745,-7.20025 -3.138557,-2.33698 -5.907843,-4.35772 -8.275504,-7.08903 -2.367657,-2.73132 -5.119191,-5.76254 -6.83725,-9.06376 -1.71807,-3.301227 -4.293084,-8.75641 -5.176674,-12.58536 -0.883591,-3.828956 1.544095,-4.866972 4.094156,-6.852901 0,0 3.467189,-1.610804 4.089877,-3.185101 1.016638,-2.57027 -0.140391,-5.69001 -1.368868,-8.220882 -1.235497,-2.545336 -4.102418,-7.03588 -5.75008,-6.414536 -1.686451,0.635982 -3.22045,1.489525 -4.58114,2.549025 z"
+         sodipodi:nodetypes="cscsssszzzzzssssc" />
+    </g>
+  </g>
+</svg>

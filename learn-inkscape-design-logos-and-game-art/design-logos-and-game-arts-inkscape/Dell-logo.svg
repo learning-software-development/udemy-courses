@@ -8,27 +8,27 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Dell-logo.svg"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 148 105"
-   height="105mm"
-   width="148mm">
+   viewBox="0 0 200 200"
+   height="200"
+   width="200">
   <defs
      id="defs2" />
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:window-y="59"
-     inkscape:window-x="306"
+     inkscape:window-y="21"
+     inkscape:window-x="222"
      inkscape:window-height="993"
      inkscape:window-width="1457"
-     units="mm"
+     units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="230.9695"
-     inkscape:cx="571.06005"
+     inkscape:document-units="px"
+     inkscape:cy="148.73618"
+     inkscape:cx="-71.6209"
      inkscape:zoom="0.98994949"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +53,8 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
-       id="g3716">
+       id="g3716"
+       transform="matrix(2.8341842,0,0,2.8341842,8.5212419,-21.764903)">
       <path
          id="path3651"
          style="fill:#00659d;fill-opacity:1;stroke-width:0.264583"

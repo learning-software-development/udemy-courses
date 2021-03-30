@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="300"
-   height="300"
-   viewBox="0 0 300 300.00001"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200.00001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="Linkedin-logo.svg">
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="LinkedIn-logo.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -38,7 +38,7 @@
        x2="79.855652"
        y2="-45.593784"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.90967749,0,0.91134005)" />
+       gradientTransform="matrix(0.5808761,0,0,0.52840991,13.398407,13.345771)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -48,7 +48,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="149.98302"
+     inkscape:cx="19.625877"
      inkscape:cy="161.51685"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -58,7 +58,7 @@
      inkscape:window-width="1457"
      inkscape:window-height="993"
      inkscape:window-x="408"
-     inkscape:window-y="31"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -77,28 +77,28 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:3"
+       style="fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:1.74263"
        id="rect833"
-       width="280"
-       height="280"
-       x="9.0873652"
-       y="10.08988"
-       ry="25" />
+       width="162.64531"
+       height="162.64531"
+       x="18.677345"
+       y="18.677345"
+       ry="14.521903" />
     <path
        id="path849"
-       style="fill:url(#linearGradient873);fill-opacity:1;stroke:none;stroke-width:3.40441"
-       d="m 34.087891,10.089844 c -13.85,0 -25.0000004,10.142904 -25.0000004,22.741937 V 135.54894 A 96.171147,245.64034 83.424164 0 0 142.02734,134.73165 96.171147,245.64034 83.424164 0 0 289.08789,96.63713 V 32.831781 c 0,-12.599033 -11.15,-22.741937 -25,-22.741937 z" />
+       style="fill:url(#linearGradient873);fill-opacity:1;stroke:none;stroke-width:1.97754"
+       d="m 33.199248,18.677345 c -8.045134,0 -14.521903,5.891771 -14.521903,13.210248 v 59.665941 a 55.863521,142.6866 83.424164 0 0 77.22135,-0.47474 55.863521,142.6866 83.424164 0 0 85.423955,-22.1282 V 31.887593 c 0,-7.318477 -6.47677,-13.210248 -14.5219,-13.210248 z" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:310.599px;line-height:1.25;font-family:sans-serif;fill:#d7f4ee;fill-opacity:1;stroke:none;stroke-width:7.76498"
-       x="27.045603"
-       y="273.29645"
+       style="font-style:normal;font-weight:normal;font-size:180.42px;line-height:1.25;font-family:sans-serif;fill:#d7f4ee;fill-opacity:1;stroke:none;stroke-width:4.51049"
+       x="28.608356"
+       y="172.06506"
        id="text847"
        transform="scale(1.0387899,0.96265857)"><tspan
          sodipodi:role="line"
          id="tspan845"
-         x="27.045603"
-         y="273.29645"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';fill:#d7f4ee;stroke-width:7.76498">in</tspan></text>
+         x="28.608356"
+         y="172.06506"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';fill:#d7f4ee;stroke-width:4.51049">in</tspan></text>
   </g>
 </svg>
