@@ -7,3 +7,6 @@
 ![Instagram](design-logos-and-game-arts-inkscape/Instagram-logo.svg)
 ![LinkedIn](design-logos-and-game-arts-inkscape/LinkedIn-logo.svg)
 ![WhatsApp](design-logos-and-game-arts-inkscape/WhatsApp-logo.svg)
+
+![Game Background](design-logos-and-game-arts-inkscape/Game-Background.svg)  
+![Isometric Art](design-logos-and-game-arts-inkscape/Isometric-Art.svg)
