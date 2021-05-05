@@ -34,7 +34,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 
 ## :beginner: Development Courses
 
-1. :o: [Back to School Web Development and Programming Bundle](https://www.udemy.com/course/back-to-school-web-development-and-programming-bundle/) :link:
+1. :o: [Back to School Web Development and Programming Bundle](web-development-programming-bundle)
 2. :heavy_check_mark: [Learn and Master Git & Github from zero to Hero](https://www.udemy.com/course/learn-and-master-git-github-from-zero-to-hero/) :link:
 
 ## :beginner: Fine Arts Courses
