@@ -9,16 +9,6 @@
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 - [jQuery](https://jquery.com/)
 
-## Placeholder Content
-
-### Images
-
-`[placehold.it/240x80](http://placehold.it/240x80)`
-
-### Text
-
-[Lorem Ipsum](https://www.lipsum.com/)
-
 ## Run the HTML files
 
 1. Install [Parcel](https://parceljs.org/)
