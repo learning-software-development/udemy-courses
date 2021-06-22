@@ -1,32 +1,22 @@
-import _, { map } from 'underscore';
 import Backbone from 'backbone';
 
-let Generic = new Backbone.Model()
-
-let Book = Backbone.Model.extend({
+let BookModel = Backbone.Model.extend({
   defaults: {
-    isbn: '',
-    title: '',
-    author: ''
+    title: 'new book',
+    author: 'no author yet',
   }
 });
 
-let myBook = new Book();
+let BookView = Backbone.View.extend({
+  render: () => {
+    this.$el.html("<h2>The Book Title</h2>");
+  }
+});
 
-// myBook.attributes All object fields
-// myBook.get('title') get the prop value
-// myBook.set('title') set the prop value
+let book = new BookModel();
 
-// https://pokeapi.co/api/v2/pokemon/7
+let view = new BookView({
+  el: '#book-view'
+});
 
-let Pokemon = Backbone.Model.extend({
-  urlRoot: 'https://pokeapi.co/api/v2/pokemon/'
-})
-
-let squirtle = new Pokemon({ id: 7 });
-
-squirtle.fetch();
-
-// model.fetch()
-// model.save()
-// model.destroy()
+view.render();
