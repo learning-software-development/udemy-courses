@@ -1,5 +1,4 @@
-import Backbone from './scripts/backbone';
-import _ from './scripts/underscore-esm';
+import Backbone from 'backbone';
 
 let BookModel = Backbone.Model.extend({
   defaults: {

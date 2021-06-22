@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server src"
+    "start": "snowpack dev",
+    "build": "snowpack build"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,6 @@
     "underscore": "^1.13.1"
   },
   "devDependencies": {
-    "http-server": "^0.12.3"
+    "snowpack": "^3.5.9"
   }
 }
