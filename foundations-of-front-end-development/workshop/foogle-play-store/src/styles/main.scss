@@ -1,0 +1,36 @@
+@import '../node_modules/bulma/bulma.sass';
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Stoke', serif;
+}
+
+/* Testing autoprefixer */
+
+.autoprefixer {
+  display: flex;
+}
+
+::placeholder {
+  color: gray;
+}
+
+/* Testing cssnext */
+
+.cssnext {
+  background: #FF0000A0;
+}
+
+/* Testing precss */
+
+.precss {
+  @if 3 < 5 {
+    background: green;
+  }
+  @else {
+    background: blue;
+  }
+}

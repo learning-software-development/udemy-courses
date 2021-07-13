@@ -1,0 +1,36 @@
+{
+  "name": "foogle-play-store",
+  "version": "0.1.0",
+  "description": "Learning Backbone by creating a Google Play Book clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "backbone"
+  ],
+  "author": "Quintin Henn (http://skerwe.web.za)",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "jquery": "^3.6.0",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-postcss": "^1.4.3",
+    "@snowpack/plugin-sass": "^1.4.0",
+    "bulma": "^0.9.3",
+    "postcss": "^8.3.5",
+    "precss": "^4.0.0",
+    "sass": "^1.35.2",
+    "snowpack": "^3.8.1"
+  },
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ]
+}
