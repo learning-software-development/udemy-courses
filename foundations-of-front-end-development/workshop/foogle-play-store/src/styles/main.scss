@@ -1,36 +1,121 @@
 @import '../node_modules/bulma/bulma.sass';
 
+$standout-color: #eee;
+
+html {
+  height: 100%;
+}
+
+body, *, *:before, *:after {
+  box-sizing: border-box;
+}
+
 body {
+  background-color: #e5e5e5;
   font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  line-height: 1.5em;
+  height: 100%;
 }
 
 h1, h2, h3, h4 {
   font-family: 'Stoke', serif;
 }
 
-/* Testing autoprefixer */
-
-.autoprefixer {
-  display: flex;
+h1 {
+  font-size: 1.8em;
+  line-height: 1em;
 }
 
-::placeholder {
-  color: gray;
+h2 {
+  font-size: 1.4em;
+  line-height: 1em;
 }
 
-/* Testing cssnext */
-
-.cssnext {
-  background: #FF0000A0;
+a, a:visited {
+  color: inherit;
+  text-decoration: none;
 }
 
-/* Testing precss */
+em {
+  font-weight: bold;
+}
 
-.precss {
-  @if 3 < 5 {
-    background: green;
+small {
+  font-size: 0.8em;
+}
+
+/* ============================================= */
+
+.l-pad {
+  padding: 1em;
+}
+
+.l-sidebar {
+  width: 250px;
+}
+
+/* ============================================= */
+
+.cf {
+  overflow: hidden;
+}
+
+.standout {
+  background-color: $standout-color;
+}
+
+.logo {
+  font-family: 'Stoke', serif;
+
+  h1 {
+    display: inline-block;
+    margin-right: 0.5em;
+
+    .logo-sub {
+      color: #333;
+      font-size: 0.6em;
+      font-weight: 100;
+    }
   }
-  @else {
-    background: blue;
+}
+
+.topbar {
+  background-color: #fff;
+}
+
+.topbar-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #fff;
+  background-color: #1aa1e1;
+  float: left;
+
+  > i {
+    font-size: 1.5em;
+    margin-right: 0.5em;
+  }
+
+  > h2 {
+    display: inline-block;
+  }
+}
+
+.categories {
+  position: absolute;
+  z-index: 100;
+  font-size: 1.2em;
+  line-height: 2em;
+  padding: 0.5em 0;
+
+  a {
+    color: #444;
+    display: block;
+    padding-left: 1em;
+    padding-right: 1em;
+
+    &:hover {
+      background-color: #e5e5e5;
+    }
   }
 }

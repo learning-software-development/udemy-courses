@@ -11,24 +11,38 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Stoke&display=swap" rel="stylesheet">
 
+  <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.min.css">
+
   <meta name="theme-color" content="#fafafa">
 </head>
 <body>
 
   <header>
-    <h1 class="title">Hello World</h1>
-    <p class="subtitle">My first website with <strong>Bulma</strong>!</p>
+    <div class="l-pad">
+      <span class="logo">
+        <h1>Foogle <span class="logo-sub">play</span></h1>
+      </span>
+    </div>
+
+    <div class="topbar cf">
+      <span class="topbar-title l-sidebar l-pad">
+        <i class="fa fa-book"></i>
+        <h2>Books</h2>
+      </span>
+    </div>
+
+    <div></div>
   </header>
 
-  <main>
-    <section class="section">
-      <div class="container">
-        This is a section text
-      </div>
-    </section>
-  </main>
-
-  <footer></footer>
+  <div class="categories l-sidebar standout">
+    <ul>
+      <li><a href="">All</a></li>
+      <li><a href="">Science Fiction</a></li>
+      <li><a href="">Romance</a></li>
+      <li><a href="">Horror</a></li>
+      <li><a href="">Sports</a></li>
+    </ul>
+  </div>
 
   <script type="module" src="scripts/main.js"></script>
 
