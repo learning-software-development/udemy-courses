@@ -55,6 +55,15 @@ small {
   width: 250px;
 }
 
+.l-content {
+  padding: 1em;
+  overflow: hidden;
+}
+
+.l-content-constrained {
+  padding-left: 270px;
+}
+
 /* ============================================= */
 
 .cf {
@@ -63,6 +72,14 @@ small {
 
 .standout {
   background-color: $standout-color;
+}
+
+.overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background-color: rgba($color: #000000, $alpha: 0.4);
 }
 
 .logo {
@@ -117,5 +134,21 @@ small {
     &:hover {
       background-color: #e5e5e5;
     }
+  }
+}
+
+.thumb {
+  float: left;
+  margin: 0.5em 0.2em;
+}
+
+.thumb-link {
+  height: 183px;
+  width: 120px;
+  display: block;
+  position: relative;
+
+  &:hover > .overlay {
+    display: block;
   }
 }

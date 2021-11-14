@@ -14,4 +14,14 @@
 1. Install [Parcel](https://parceljs.org/)
 2. `parcel index.html`
 
+The full projects use pnpm and snowpack to build and run.
+
+```shell
+pnpm start
+```
+
+## Tools and Services
+
+- [Placeholder.com](https://placeholder.com/)
+
 [course]: https://www.udemy.com/course/foundations-of-front-end-development/
