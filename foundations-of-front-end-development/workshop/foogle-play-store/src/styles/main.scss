@@ -64,6 +64,16 @@ small {
   padding-left: 270px;
 }
 
+.l-row {
+  display: table;
+  width: 100%;
+}
+
+.l-column {
+  display: table-cell;
+  vertical-align: top;
+}
+
 /* ============================================= */
 
 .cf {
@@ -151,4 +161,32 @@ small {
   &:hover > .overlay {
     display: block;
   }
+}
+
+.books, book {
+  display: none;
+}
+
+.title {
+  font-size: 1.8em;
+  line-height: 1em;
+  padding-bottom: 0.2em;
+}
+
+.title:not(:last-child) {
+  margin-bottom: 0;
+}
+
+.book-header {
+  border-bottom: 2px solid #ccc;
+}
+
+.thumb-image {
+  width: 136px;
+}
+
+/* ============================================= */
+
+.is-visible {
+  display: block;
 }
