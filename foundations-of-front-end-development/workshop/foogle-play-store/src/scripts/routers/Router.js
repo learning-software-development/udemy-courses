@@ -25,24 +25,37 @@ App.routers.Router = Backbone.Router.extend({
     });
 
     this._activateBookListPanel();
-    Backbone.$('[data-id=book-list]').append(App.data.currentView.$el)
+    Backbone.$('[data-id=book-list]').append(App.data.currentView.$el);
 
     App.data.books.fetch({ reset: true });
   },
-  book: function (id, book) {
-    console.log(`Book [${book}] for category [${id}]`);
+  book: function (id, bookId) {
+    console.log(`Book [${bookId}] for category [${id}]`);
+
+    this._cleanUpCurrentView();
+    App.data.book = new App.models.Book({ id: bookId });
+    console.log(App.data.book.url());
+
+    App.data.currentView = new App.views.BookDetail({
+      model: App.data.book
+    });
+
+    this._activateBookDetailPanel();
+    Backbone.$('[data-id=book-detail]').append(App.data.currentView.$el);
+
+    App.data.book.fetch();
   },
   unknown: function () {
     console.log('Unknown route ...');
   },
 
-  _activateBookListPanel: (selector) => {
-    Backbone.$('[data-id=book-wrapper] .is-inline-block').removeClass('is-inline-block');
+  _activateBookListPanel: () => {
+    Backbone.$('[data-id=book-wrapper] .is-block').removeClass('is-block');
     Backbone.$('[data-id=book-list]').addClass('is-inline-block');
   },
-  _activateBookDetailPanel: (selector) => {
+  _activateBookDetailPanel: () => {
     Backbone.$('[data-id=book-wrapper] .is-inline-block').removeClass('is-inline-block');
-    Backbone.$('[data-id=book-detail]').addClass('is-inline-block');
+    Backbone.$('[data-id=book-detail]').addClass('is-block');
   },
   _cleanUpCurrentView: () => {
     if (App.data.currentView) {
