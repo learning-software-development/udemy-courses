@@ -16,6 +16,7 @@ App.routers.Router = Backbone.Router.extend({
   category: function (id) {
     console.log(`Category [${id}]`);
 
+    this._cleanUpCurrentView();
     App.data.books = new App.models.Books(null, { catId: id });
     console.log(App.data.books.url());
 
@@ -23,9 +24,30 @@ App.routers.Router = Backbone.Router.extend({
       collection: App.data.books
     });
 
-    App.data.books.fetch();
+    this._activateBookListPanel();
+    Backbone.$('[data-id=book-list]').append(App.data.currentView.$el)
+
+    App.data.books.fetch({ reset: true });
   },
   book: function (id, book) {
     console.log(`Book [${book}] for category [${id}]`);
+  },
+  unknown: function () {
+    console.log('Unknown route ...');
+  },
+
+  _activateBookListPanel: (selector) => {
+    Backbone.$('[data-id=book-wrapper] .is-inline-block').removeClass('is-inline-block');
+    Backbone.$('[data-id=book-list]').addClass('is-inline-block');
+  },
+  _activateBookDetailPanel: (selector) => {
+    Backbone.$('[data-id=book-wrapper] .is-inline-block').removeClass('is-inline-block');
+    Backbone.$('[data-id=book-detail]').addClass('is-inline-block');
+  },
+  _cleanUpCurrentView: () => {
+    if (App.data.currentView) {
+      App.data.currentView.remove();
+      App.data.currentView = null;
+    }
   }
 });
