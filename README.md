@@ -43,6 +43,10 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 1. :o: [The Colored Pencil Drawing Course](https://www.udemy.com/course/the-colored-pencil-course/) :link:
 2. :o: [The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/) :link:
 
+## :beginner: Language Courses
+
+1. :o: Learn Dutch... in Dutch 1: the Dutch language for beginners
+
 ## :page_with_curl: License
 
 The source code is free -- see the [LICENSE](LICENSE) file for details
