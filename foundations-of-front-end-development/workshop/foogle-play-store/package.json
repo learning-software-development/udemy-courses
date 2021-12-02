@@ -17,7 +17,8 @@
   "dependencies": {
     "backbone": "^1.4.0",
     "jquery": "^3.6.0",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "underscore": "^1.13.1"
   },
   "devDependencies": {
     "@snowpack/plugin-postcss": "^1.4.3",

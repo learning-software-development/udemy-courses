@@ -51,6 +51,25 @@
     <div class="books" data-id="book-detail"></div>
   </div>
 
+  <script type="text/html" data-id="book-detail-view">
+    <header class="book-header l-content l-content-constrained l-row">
+      <div class="l-column thumb-image">
+        <img src="<%= _book.imageLinks.thumbnail %>" alt="Book example image">
+      </div>
+      <div class="l-column">
+        <div class="title"><%= _book.title %></div>
+        <div>
+          <%= _authors %> <%= _book.publishedDate %> <br>
+          <%= _publisher %>
+        </div>
+      </div>
+    </header>
+    <div class="book-content l-content l-content-constrained standout">
+      <h1 class="title">Description</h1>
+      <p><%= _book.description %></p>
+    </div>
+  </script>
+
   <script type="module" src="scripts/main.js"></script>
 
 </body>

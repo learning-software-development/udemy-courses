@@ -11,11 +11,13 @@ specifiers:
   precss: ^4.0.0
   sass: ^1.35.2
   snowpack: ^3.8.1
+  underscore: ^1.13.1
 
 dependencies:
   backbone: 1.4.0
   jquery: 3.6.0
   normalize.css: 8.0.1
+  underscore: 1.13.1
 
 devDependencies:
   '@snowpack/plugin-postcss': 1.4.3_postcss@8.3.5
