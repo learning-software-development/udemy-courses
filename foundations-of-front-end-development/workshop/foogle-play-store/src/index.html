@@ -26,25 +26,26 @@
       </span>
     </div>
 
-    <div class="topbar cf">
+    <div class="topbar cf" data-id="topbar">
       <span class="topbar-title l-sidebar l-pad">
+        <a data-id="categories-toggle" class="categories-toggle" href="#"><i class="fa fa-bars"></i></a>
         <i class="fa fa-book"></i>
         <h2>Books</h2>
       </span>
+
+      <div class="categories l-sidebar standout" data-id="categories">
+        <ul>
+          <li><a data-id="category" href="#category/all">All</a></li>
+          <li><a data-id="category" href="#category/scifi">Science Fiction</a></li>
+          <li><a data-id="category" href="#category/romance">Romance</a></li>
+          <li><a data-id="category" href="#category/horror">Horror</a></li>
+          <li><a data-id="category" href="#category/sport">Sports</a></li>
+        </ul>
+      </div>
     </div>
 
     <div></div>
   </header>
-
-  <div class="categories l-sidebar standout">
-    <ul>
-      <li><a href="#category/all">All</a></li>
-      <li><a href="#category/scifi">Science Fiction</a></li>
-      <li><a href="#category/romance">Romance</a></li>
-      <li><a href="#category/horror">Horror</a></li>
-      <li><a href="#category/sport">Sports</a></li>
-    </ul>
-  </div>
 
   <div class="books-wrapper" data-id=book-wrapper>
     <div class="books l-content l-content-constrained" data-id="book-list"></div>

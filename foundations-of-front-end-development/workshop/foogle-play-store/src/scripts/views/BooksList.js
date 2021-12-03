@@ -7,9 +7,9 @@ App.views.BooksList = Backbone.View.extend({
     this.listenTo(this.collection, "change reset", this.render);
   },
   render: function () {
-    this.$el.html('<h1>Book List</h1>');
+    this.$el.html('<h1 class="ml-5">Book List</h1>');
 
-    this.$el.append('<ul></ul>');
+    this.$el.append('<ul class="thumbs-list"></ul>');
     let _ul = this.$('ul');
 
     this.collection.each((model) => {
