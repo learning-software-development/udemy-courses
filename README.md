@@ -30,7 +30,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 - :heavy_check_mark: Web Design: HTML & CSS For Rookies (A Comprehensive CSS & HTML Web Design Course)
 - :heavy_check_mark: [Learning JavaScript Programming Tutorial. A Definitive Guide](https://www.udemy.com/course/programming-javascript/) :link:
 - :heavy_check_mark: [Vue.js 2 Basics in just 1 hour FREE](vuejs2-basics-in-just-1-hour/)
-- :o: [Foundations of Front-End Web Development](foundations-of-front-end-development/)
+- :heavy_check_mark: [Foundations of Front-End Web Development](foundations-of-front-end-development/)
 - :o: [Master Angular 2 - The No Nonsense Course](master-angular-2/)
 
 ## :beginner: Development Courses

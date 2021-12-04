@@ -24,4 +24,10 @@ pnpm start
 
 - [Placeholder.com](https://placeholder.com/)
 
+## Testing
+
+- [Mocha](https://mochajs.org/)
+- [Chai](https://www.chaijs.com/)
+- [Sinon](https://sinonjs.org/)
+
 [course]: https://www.udemy.com/course/foundations-of-front-end-development/
