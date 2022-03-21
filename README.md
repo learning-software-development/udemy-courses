@@ -19,7 +19,9 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 2. :heavy_check_mark: [How To Get A Job In The Video Game Industry](https://www.udemy.com/course/gameindustryjobs/) :link:
 3. :heavy_check_mark: [Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub](https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/) :link:
 4. :heavy_check_mark: [The Unity Workshop](https://github.com/learning-game-development/learning-unity-game-development/tree/master/The-Unity-Workshop) :rocket:
-5. :o: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Intro-to-Creating-Particle-Effects) :rocket:
+5. :heavy_check_mark: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses/source/Intro-to-Creating-Particle-Effects) :rocket:
+6. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](/) :rocket:
+7. :o: [Diploma in Basic Game Development](/) :rocket:
 
 ## :beginner: Software Development
 
@@ -35,7 +37,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 
 ## :beginner: Development Courses
 
-1. :o: [Back to School Web Development and Programming Bundle](web-development-programming-bundle)
+1. :o: [Back to School Web Development and Programming Bundle](web-development-programming-bundle/)
 2. :heavy_check_mark: [Learn and Master Git & Github from zero to Hero](https://www.udemy.com/course/learn-and-master-git-github-from-zero-to-hero/) :link:
 
 ## :beginner: Fine Arts Courses
