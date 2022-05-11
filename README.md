@@ -20,7 +20,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 3. :heavy_check_mark: [Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub](https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/) :link:
 4. :heavy_check_mark: [The Unity Workshop](https://github.com/learning-game-development/learning-unity-game-development/tree/master/The-Unity-Workshop) :rocket:
 5. :heavy_check_mark: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses/source/Intro-to-Creating-Particle-Effects) :rocket:
-6. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](/) :rocket:
+6. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Beginner-Guide-to-How-to-Make-a-Game-with-Unity) :rocket:
 7. :o: [Diploma in Basic Game Development](/) :rocket:
 
 ## :beginner: Software Development
