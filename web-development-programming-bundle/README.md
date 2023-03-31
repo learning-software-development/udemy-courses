@@ -21,8 +21,8 @@
 12. :heavy_check_mark: Let's learn CSS3
 13. :o: C# In unity
 14. :o: JavaScript in Unity 3D
-15. :o: 1 hour Xcode
-16. :o: How to make an app from scratch
+15. :heavy_check_mark: 1 hour Xcode
+16. :heavy_check_mark: How to make an app from scratch
 17. :heavy_check_mark: Kids Coding - Beginner HTML
 18. :heavy_check_mark: Kids Coding - Beginner CSS
 19. :o: Make a song in FL studio
