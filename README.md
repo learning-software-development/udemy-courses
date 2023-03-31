@@ -20,8 +20,10 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 3. :heavy_check_mark: [Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub](https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/) :link:
 4. :heavy_check_mark: [The Unity Workshop](https://github.com/learning-game-development/learning-unity-game-development/tree/master/The-Unity-Workshop) :rocket:
 5. :heavy_check_mark: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses/source/Intro-to-Creating-Particle-Effects) :rocket:
-6. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Beginner-Guide-to-How-to-Make-a-Game-with-Unity) :rocket:
-7. :o: [Diploma in Basic Game Development](/) :rocket:
+6. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses/source/UdemyLearning3DUnity) :rocket:
+7. :o: [Diploma in Basic Game Development](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses/source/UdemyLearning3DUnity) :rocket:
+8. :construction: Intro to HTML5 Game Development
+9. :construction: How to make 20 games without coding in Construct 2!
 
 ## :beginner: Software Development
 
@@ -39,6 +41,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 
 1. :o: [Back to School Web Development and Programming Bundle](web-development-programming-bundle/)
 2. :heavy_check_mark: [Learn and Master Git & Github from zero to Hero](https://www.udemy.com/course/learn-and-master-git-github-from-zero-to-hero/) :link:
+3. :o: [Selenium Automation: a complete package](https://www.udemy.com/course/selenium-webdriver-with-maven-jenkins-git-cucumber/) :link:
 
 ## :beginner: Fine Arts Courses
 
