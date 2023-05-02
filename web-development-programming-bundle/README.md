@@ -17,10 +17,10 @@
 8. :heavy_check_mark: Learn C# in 1 hour
 9. :heavy_check_mark: Let's learn C++
 10. :o: Game Salad
-11. :o: Let's learn Stencyl
+11. :heavy_check_mark: Let's learn Stencyl
 12. :heavy_check_mark: Let's learn CSS3
 13. :o: C# In unity
-14. :o: JavaScript in Unity 3D
+14. :heavy_check_mark: JavaScript in Unity 3D
 15. :heavy_check_mark: 1 hour Xcode
 16. :heavy_check_mark: How to make an app from scratch
 17. :heavy_check_mark: Kids Coding - Beginner HTML
