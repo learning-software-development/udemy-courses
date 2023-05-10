@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.6255">
+  <sounds />
+  <images>
+    <image name="genericItem_color_124">
+      <file name="genericItem_color_124.png" size="1695" />
+    </image>
+    <image name="genericItem_color_139">
+      <file name="genericItem_color_139.png" size="1821" />
+    </image>
+    <image name="genericItem_color_137">
+      <file name="genericItem_color_137.png" size="1431" />
+    </image>
+    <image name="genericItem_color_138">
+      <file name="genericItem_color_138.png" size="1427" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>

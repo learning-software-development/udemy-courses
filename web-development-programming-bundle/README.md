@@ -16,7 +16,7 @@
 7. :heavy_check_mark: 1 hour corporate training coding for beginners. Review HTML CSS JavaScript
 8. :heavy_check_mark: Learn C# in 1 hour
 9. :heavy_check_mark: Let's learn C++
-10. :o: Game Salad
+10. :heavy_check_mark: Game Salad
 11. :heavy_check_mark: Let's learn Stencyl
 12. :heavy_check_mark: Let's learn CSS3
 13. :o: C# In unity
