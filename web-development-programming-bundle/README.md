@@ -31,4 +31,4 @@
 22. :o: Learn Construct 2
 23. :o: Make a game from scratch in Construct 2
 24. :o: More On construct 2
-25. :o: Xcode fundamentals: Designing a user experience for Cocoa
+25. :heavy_check_mark: Xcode fundamentals: Designing a user experience for Cocoa
