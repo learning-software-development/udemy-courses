@@ -36,6 +36,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 - :heavy_check_mark: [Vue.js 2 Basics in just 1 hour FREE](vuejs2-basics-in-just-1-hour/)
 - :heavy_check_mark: [Foundations of Front-End Web Development](foundations-of-front-end-development/)
 - :o: [Master Angular 2 - The No Nonsense Course](master-angular-2/)
+- :heavy_check_mark: Complete Responsive Web Development: 4 courses in 1
 
 ## :beginner: Development Courses
 
