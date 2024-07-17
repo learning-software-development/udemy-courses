@@ -13,13 +13,13 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 4. :heavy_check_mark: [Learn Atlassian JIRA - For Agile Software Development Teams](https://www.udemy.com/course/learn-jira-in-4-hours/) :link:
 5. :heavy_check_mark: [Digital Marketing Secrets for Beginners - A Complete Course](https://www.udemy.com/course/digital-marketing-secrets-for-beginners/) :link:
 
-## :beginner: Game Development Courses
+## :beginner: :video_game: Game Development Courses
 
 1. :heavy_check_mark: [How to become a Game Artist, Designer, or Developer!](https://www.udemy.com/course/gettingstartedingames/) :link:
 2. :heavy_check_mark: [How To Get A Job In The Video Game Industry](https://www.udemy.com/course/gameindustryjobs/) :link:
 3. :heavy_check_mark: [Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub](https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/) :link:
-4. :heavy_check_mark: [The Unity Workshop](https://github.com/learning-game-development/learning-unity-game-development/tree/master/The-Unity-Workshop) :rocket:
-5. :heavy_check_mark: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses/source/Intro-to-Creating-Particle-Effects) :rocket:
+4. :heavy_check_mark: [The Unity Workshop](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
+5. :heavy_check_mark: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
 6. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses/source/UdemyLearning3DUnity) :rocket:
 7. :o: [Diploma in Basic Game Development](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses/source/UdemyLearning3DUnity) :rocket:
 8. :construction: Intro to HTML5 Game Development
