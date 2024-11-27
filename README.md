@@ -40,6 +40,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 - :heavy_check_mark: [Foundations of Front-End Web Development](foundations-of-front-end-development/)
 - :o: [Master Angular 2 - The No Nonsense Course](master-angular-2/)
 - :heavy_check_mark: Complete Responsive Web Development: 4 courses in 1
+- :heavy_check_mark: Create your first portfolio and host it live - for beginners
 
 ## :beginner: Development Courses
 
