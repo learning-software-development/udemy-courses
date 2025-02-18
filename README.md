@@ -26,7 +26,8 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 6. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
 7. :heavy_check_mark: [Diploma in Basic Game Development](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
 8. :construction: Intro to HTML5 Game Development
-9. :construction: How to make 20 games without coding in Construct 2!
+9. :o: How to make 20 games without coding in Construct 2!
+10. :o: Introduction to Blender 2.8 for Complete Beginners
 
 ## :beginner: Software Development
 
@@ -52,6 +53,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 
 1. :o: [The Colored Pencil Drawing Course](https://www.udemy.com/course/the-colored-pencil-course/) :link:
 2. :o: [The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/) :link:
+3. :o: Learn Paintstorm for digital painting
 
 ## :beginner: Language Courses
 
