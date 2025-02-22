@@ -14,7 +14,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 5. :heavy_check_mark: [Digital Marketing Secrets for Beginners - A Complete Course](https://www.udemy.com/course/digital-marketing-secrets-for-beginners/) :link:
 6. :o: [The Complete Guide to Becoming a Software Architect](https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/?couponCode=PLOYALTY0923) :link:
 7. :o: [Software Architecture & Design of Modern Large Scale Systems](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/) :link:
-8. :o: Linux - Shell Bash Commands From Scratch
+8. :heavy_check_mark: Linux - Shell Bash Commands From Scratch
 
 ## :beginner: :video_game: Game Development Courses
 
