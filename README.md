@@ -28,7 +28,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 7. :heavy_check_mark: [Diploma in Basic Game Development](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
 8. :construction: Intro to HTML5 Game Development
 9. :o: How to make 20 games without coding in Construct 2!
-10. :o: Introduction to Blender 2.8 for Complete Beginners
+10. :o: [Introduction to Blender 2.8 for Complete Beginners](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/udemy-courses/intro-to-blender-for-beginners/) :rocket:
 
 ## :beginner: Software Development
 
