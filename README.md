@@ -22,13 +22,29 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 1. :heavy_check_mark: [How to become a Game Artist, Designer, or Developer!](https://www.udemy.com/course/gettingstartedingames/) :link:
 2. :heavy_check_mark: [How To Get A Job In The Video Game Industry](https://www.udemy.com/course/gameindustryjobs/) :link:
 3. :heavy_check_mark: [Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub](https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/) :link:
-4. :heavy_check_mark: [The Unity Workshop](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
-5. :heavy_check_mark: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
-6. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
-7. :heavy_check_mark: [Diploma in Basic Game Development](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
-8. :construction: Intro to HTML5 Game Development
-9. :o: How to make 20 games without coding in Construct 2!
-10. :o: [Introduction to Blender 2.8 for Complete Beginners](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/udemy-courses/intro-to-blender-for-beginners/) :rocket:
+
+### Unity Game Development Courses
+
+1. :heavy_check_mark: [The Unity Workshop](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
+2. :heavy_check_mark: [Unity Game Development - Intro to Creating Particle Effects](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
+3. :o: [Introduction To Unity For Absolute Beginners | 2018 ready](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
+4. :heavy_check_mark: [Diploma in Basic Game Development](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Udemy-Unity-Courses) :rocket:
+
+### HTML5 Game Development Courses
+
+1. :construction: Intro to HTML5 Game Development
+
+### Construct 2 Game Development Courses
+
+1. :o: How to make 20 games without coding in Construct 2!
+
+### Godot 2 Game Development Courses
+
+1. :heavy_check_mark: [GDScript in Game Making for domisie student](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Udemy-Godot-Courses) :rocket:
+
+### Game Development Tools: Blender Courses
+
+1. :o: [Introduction to Blender 2.8 for Complete Beginners](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/udemy-courses/intro-to-blender-for-beginners/) :rocket:
 
 ## :beginner: Software Development
 
