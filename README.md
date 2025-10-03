@@ -46,6 +46,8 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 
 1. :heavy_check_mark: [Introduction to Blender 2.8 for Complete Beginners](https://github.com/learning-game-development/learning-blender/tree/master/online-courses-tutorials/udemy-courses/intro-to-blender-for-beginners/) :rocket:
 2. :o: [Blender Beginners Guide to 3D Modelling Game Asset Pipeline](https://github.com/learning-game-development/learning-blender/tree/master/online-courses-tutorials/udemy-courses/modelling-game-asset-pipeline) :rocket:
+3. Blender Environment Artist: Create 3D Worlds
+4. Create a Low Poly Game using Unity, Blender and MagicaVoxel
 
 ## :beginner: Software Development
 
