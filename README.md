@@ -22,6 +22,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 1. :heavy_check_mark: [How to become a Game Artist, Designer, or Developer!](https://www.udemy.com/course/gettingstartedingames/) :link:
 2. :heavy_check_mark: [How To Get A Job In The Video Game Industry](https://www.udemy.com/course/gameindustryjobs/) :link:
 3. :heavy_check_mark: [Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub](https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/) :link:
+4. :heavy_check_mark: Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev
 
 ### Unity Game Development Courses
 
@@ -42,12 +43,18 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 
 1. :heavy_check_mark: [GDScript in Game Making for domisie student](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Udemy-Godot-Courses) :rocket:
 
-### Game Development Tools: Blender Courses
+### :briefcase: Game Development Tools
+
+#### Blender Courses
 
 1. :heavy_check_mark: [Introduction to Blender 2.8 for Complete Beginners](https://github.com/learning-game-development/learning-blender/tree/master/online-courses-tutorials/udemy-courses/intro-to-blender-for-beginners/) :rocket:
 2. :o: [Blender Beginners Guide to 3D Modelling Game Asset Pipeline](https://github.com/learning-game-development/learning-blender/tree/master/online-courses-tutorials/udemy-courses/modelling-game-asset-pipeline) :rocket:
 3. Blender Environment Artist: Create 3D Worlds
 4. Create a Low Poly Game using Unity, Blender and MagicaVoxel
+
+#### Krita Courses
+
+1. :o: [Beginners Digital Illustration with Krita](/)
 
 ## :beginner: Software Development
 
@@ -59,7 +66,7 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 - :heavy_check_mark: [Learning JavaScript Programming Tutorial. A Definitive Guide](https://www.udemy.com/course/programming-javascript/) :link:
 - :heavy_check_mark: [Vue.js 2 Basics in just 1 hour FREE](vuejs2-basics-in-just-1-hour/)
 - :heavy_check_mark: [Foundations of Front-End Web Development](foundations-of-front-end-development/)
-- :o: [Master Angular 2 - The No Nonsense Course](master-angular-2/)
+- :heavy_check_mark: [Master Angular 2 - The No Nonsense Course](master-angular-2/)
 - :heavy_check_mark: Complete Responsive Web Development: 4 courses in 1
 - :heavy_check_mark: Create your first portfolio and host it live - for beginners
 
@@ -72,12 +79,18 @@ These are all the [Udemy Courses][udemy] online courses I completed to learn new
 ## :beginner: Fine Arts Courses
 
 1. :o: [The Colored Pencil Drawing Course](https://www.udemy.com/course/the-colored-pencil-course/) :link:
-2. :o: [The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/) :link:
+2. :heavy_check_mark: [The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/) :link:
 3. :o: Learn Paintstorm for digital painting
 
 ## :beginner: Language Courses
 
-1. :o: Learn Dutch... in Dutch 1: the Dutch language for beginners
+1. :heavy_check_mark: Learn Dutch... in Dutch 1: the Dutch language for beginners
+2. :heavy_check_mark: Learn Dutch... in Dutch 2: the Dutch language for beginners
+3. :heavy_check_mark: Learn Dutch in Dutch 3: master the 1000 most used words
+
+### :: Animation
+
+1. [Get started in animation | From an idea to an animated movie](/)
 
 ## :page_with_curl: License
 
